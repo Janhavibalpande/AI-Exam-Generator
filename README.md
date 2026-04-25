@@ -235,4 +235,4 @@ MIT License — free to use, modify, and share.
 
 </div>
 
-link for our ai :-ai-exam-generator-production.up.railway.app
+link for our ai :-  https://ai-exam-generator-production.up.railway.app/
